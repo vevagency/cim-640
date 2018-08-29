@@ -4,22 +4,22 @@
 
 ### The Problem
 
-##### Not knowing what kind of plant I have, and how much sunlight, water, and plant food it needs.
+#### Not knowing what kind of plant I have, and how much sunlight, water, and plant food it needs.
 
 ### Step 1
 
-##### Take a photo of the plant.
+#### Take a photo of the plant.
 
 ### Step 2
 
-##### Plant is identified, and name, species, and standard requirements of sunlight, water, and plant food is provided.
+#### Plant is identified, and name, species, and standard requirements of sunlight, water, and plant food is provided.
 
 ### Step 3
 
-##### Press button for plant assessment via electromagnetic waves reading.
+#### Press button for plant assessment via electromagnetic waves reading.
 
 ### Step 4
 
-##### Results of plant assessment show percentage levels of sunlight, water, and plant food status to give your plant the nourishment is requires at the moment.
+#### Results of plant assessment show percentage levels of sunlight, water, and plant food status to give your plant the nourishment is requires at the moment.
 
 ![Mockup of App](https://github.com/vevagency/cim-640/blob/master/hw/impossible-sketch.jpg)
