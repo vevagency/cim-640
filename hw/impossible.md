@@ -20,6 +20,6 @@
 
 ### Step 4
 
-#### Results of plant assessment show percentage levels of sunlight, water, and plant food status to give your plant the nourishment is requires at the moment.
+#### Results of plant assessment show percentage levels of sunlight, water, and plant food status to give your plant the nourishment is requires.
 
 ![Mockup of App](https://github.com/vevagency/cim-640/blob/master/hw/impossible-sketch.jpg)
