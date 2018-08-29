@@ -1,11 +1,25 @@
-Healthy plant app
+# Healthy Plant App
 
-This app is meant to identify your plant and tell you its current state of health!
+## This app is meant to identify your plant and tell you its current state of health!
 
-The problem is not knowing how much water or sunlight the plant has or needs, more over if it has excess or less nourishment than required.
+### The Problem
 
-The app prompts you to take a photo of the plant.
+###### Not knowing what kind of plant I have, and how much sunlight, water, and plant food it needs.
 
-It will then show you a related photo of the same plant identified, with the name of the plant, species, and requirements of sunlight, water, plant food and frequency for nourishment.
+### Step 1
 
-You can then assess the plant by pressing a button that will read the electromagnetic waves of the plant to give results of the current amount of water, sunlight, and plant food levels.
+###### Take a photo of the plant.
+
+### Step 2
+
+###### Plant is identified, and name, species, and standard requirements of sunlight, water, and plant food is provided.
+
+### Step 3
+
+###### Press button for plant assessment via electromagnetic waves reading.
+
+### Step 4
+
+###### Results of plant assessment show percentage levels of sunlight, water, and plant food status to give your plant the nourishment is requires at the moment.
+
+![Mockup of App](https://github.com/vevagency/cim-640/blob/master/hw/impossible-sketch.jpg)
