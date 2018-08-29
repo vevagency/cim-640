@@ -12,7 +12,7 @@
 
 ### Step 2
 
-#### Plant is identified, and name, species, and standard requirements of sunlight, water, and plant food is provided.
+#### Plant is name and species is identified, with standard requirements of sunlight, water, and plant food information is provided.
 
 ### Step 3
 
