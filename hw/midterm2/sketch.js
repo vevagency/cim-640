@@ -83,7 +83,7 @@ function setup() {
   image(logo,400,0,logo.width/2,logo.height/2);
   textSize(10);
   fill(186,32,156);
-  text("Instructions: You know this dance goes! 3 in a row is the winner.", 50,400);
+  text("Instructions: You know how this dance goes! 3 in a row is the winner.", 50,400);
   text("- Select 'Player 1' or 'Player 2' before each player's turn.", 50,420);
   text("- Select 'New Game' to clear the board.", 50,440);
   //
