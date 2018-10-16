@@ -21,9 +21,11 @@ The overall motivation is for the dance school to foster pride among students, p
 * Click any of the nine quadrants to place image of player selected.
 
 ### Target Audience
-There are over 80 dance school in Miami, FL, and this does not include dance teams of elementary, middle, and high schools, which opens up the target market for this product to an even greater potential.
+There are over 80 dance schools in Miami, FL, and this does not include dance teams of elementary, middle, and high schools, which opens up the target market for this product to an even greater potential.
 
 The target audience for this project includes all dance schools that aim to provide a greater experience of engagement among its members, fostering dance school pride, increasing website traffic, and providing students with something fun to do with other dance mates while waiting for their dance classes, as students spend hours in the dance halls.
+
+Additionally, the target audience includes parents of the students in the dance schools, who can customize the tic-tap-toe game for their dancer's as an end of the year special gift.
 
 ### Project Display
 The project will be displayed on the dance school's website, as well as parents and faculty will be provided a link via the dance school's email to access and play from their phone.
