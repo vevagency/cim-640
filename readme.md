@@ -8,3 +8,4 @@
 
 ### Midterm "Tip Tap Toe"
 * [Click here to play!](https://vevagency.github.io/cim-640/hw/midterm2/)
+* [Readme.md](https://vevagency.github.io/cim-640/hw/midterm2/readme.md)
