@@ -4,10 +4,7 @@
 
 ### Creative Coding
 
-###### Testing 1,2,3.
+##### View homework and projects here.
 
-* [Click here for google.com](http://www.google.com)
-
-![impossible app](https://github.com/vevagency/cim-640/blob/master/hw/impossible-sketch.jpg) < absolute
-
-![impossible app](hw/impossible-sketch.jpg) < relatively
+### Midterm "Tip Tap Toe"
+* [Click here to play!](https://vevagency.github.io/cim-640/hw/midterm2/)
