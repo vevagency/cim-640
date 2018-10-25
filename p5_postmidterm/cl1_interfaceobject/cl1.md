@@ -1,4 +1,4 @@
-### Human Object
+### CL1 Object
 
 ##### Objects > functions > variables
 
@@ -18,6 +18,7 @@
 * Speak();
 * Jump();
 
-[View interface object example](https://vevagency.github.io/cim-640/hw/midterm2/)
+[Notes - Functions and Objects](https://github.com/zevenrodriguez/CIM540-640/blob/master/notes/Functions-and-Objects.md)
 
+* Main goal: creating of functions.
 * Buttons change color, and end goal to add sound.
