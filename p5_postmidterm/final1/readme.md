@@ -1,4 +1,26 @@
-# CIM640 - Midterm - Tip Tap Toe
+# CIM640 - Final - Tip Tap Toe
+
+### CL5 Brainstorm
+* Time to relax
+* Happy
+* Dancer
+* Social media
+* Play with others
+
+### Updates
+* Choose a character, i.e. tap shoes, ballet shoes, jazz shoes, barefeet, etc.
+* Make game mobile optimized
+* Change font
+* Movement theme -- moving background
+* Share on social media --
+* Link to school website --
+
+##### Character of App
+* Currently pink and fluffy dance
+* More movement, expressionist feel
+
+##### Choice of Library
+* p5.scenemanager i.e. start screen, live state, game over state
 
 ### Motivation
 The focus of this project is to provide customized tic-tac-toe games
@@ -29,4 +51,4 @@ The target audience for this project includes all dance schools that aim to prov
 The project will be displayed on the dance school's website, as well as parents and faculty can be provided a link via the dance school's email to access and play from their computer and tablets. The game is accessible on mobile phones, but not yet entirely mobile phone optimized.
 
 ### Play "Tip Tap Toe"!
-[Click here to play game!](https://vevagency.github.io/cim-640/hw/midterm2/)
+[Click here to play new version of game!](https://vevagency.github.io/cim-640/p5_postmidterm/final1/)
