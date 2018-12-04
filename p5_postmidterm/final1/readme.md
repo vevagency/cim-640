@@ -8,12 +8,15 @@
 * Play with others
 
 ### Updates
-* Choose a character, i.e. tap shoes, ballet shoes, jazz shoes, barefeet, etc.
+* Movement theme -- change font and  background
 * Make game mobile optimized
-* Change font
-* Movement theme -- moving background
-* Share on social media --
-* Link to school website --
+* Link to school website -- social media --
+
+* Player automatic transition to next player, not select button each time
+* Announce next players turn
+* If 3 in a row, then feedback WINNER! or Draw
+
+* Choose a character, i.e. tap shoes, ballet shoes, jazz shoes, barefeet, etc.
 
 ##### Character of App
 * Currently pink and fluffy dance
@@ -21,6 +24,10 @@
 
 ##### Choice of Library
 * p5.scenemanager i.e. start screen, live state, game over state
+
+* Scene 1 - Choose Player
+* Scene 2 - Play
+* Scene 3 - Feedback
 
 ### Motivation
 The focus of this project is to provide customized tic-tac-toe games
