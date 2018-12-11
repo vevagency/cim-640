@@ -22,5 +22,4 @@
 
 #### Results of plant assessment show percentage levels of sunlight, water, and plant food status to give your plant the nourishment is requires.
 
-![The Perfect Joe](/files/theperfectjoe.jpg)
-![Mockup of App](/files/impossible-sketch.jpg)
+![Mockup of App](https://github.com/vevagency/cim-640/blob/master/hw/impossibleapp-hw1/impossible-sketch.jpg)
